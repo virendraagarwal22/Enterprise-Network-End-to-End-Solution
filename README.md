@@ -1,2 +1,3 @@
 This project is totally dedicated to the fresh Network Engineer for new and smart learning of the Network Structure. In this concept it is possible for the networker to check the incoming & the outgoing traffic and to maintain some security concepts as well. In this project we use the RIPv2 routing & Security concepts in the Cisco Packet Tracer.We build an Enterprise Network which will connect various states of India represented by routers to be able to communicate with each other and also within internal organization.Various concepts like Vlan,Vtp,InterVlan,NAT,PAT etc have been used.
 
+https://lh5.googleusercontent.com/ccPV-0U082KnBB56yYdN2bvrx-ZvKzKUtZJhsQUR9g9sPZbh7ykbCdBPZQppBsjQcX0V4ZN68S3RSw4=w1342-h547-rw
